@@ -72,7 +72,6 @@ public class MusicActivity extends AppCompatActivity implements View.OnClickList
                     animator.pause();//停止播放动画
                 }
             }
-
             @Override
             //滑动条开始滑动时调用
             public void onStartTrackingTouch(SeekBar seekBar) {
